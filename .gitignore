@@ -1,0 +1,11 @@
+# disallow all - we only want to
+# sync the files that matter 
+*
+
+# allow certain files >.<
+!autoexec.cfg
+!master.cfg
+!performance.cfg
+!jasen.cfg
+!.gitignore
+!readme.md
